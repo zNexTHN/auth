@@ -1,1 +1,7 @@
 print('Eu sou um codigo da net')
+
+
+
+local porcentagem = math.random(1,100)
+
+print('A porcentagem atual é de: '..porcentagem)
